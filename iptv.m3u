@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 ,NBA
+
+https://play2.t2wy3.cn/rrty/sd-2-3574922.m3u8?txSecret=2ff29e8302f11af6e83b75bb953a40e8&txTime=601F3955
+
 #EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png",四川卫视1
 http://101.71.255.229:6610/zjhs/2/10046/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png",四川卫视3

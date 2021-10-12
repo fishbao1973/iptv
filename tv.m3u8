@@ -4,14 +4,14 @@
 http://101.71.255.229:6610/zjhs/2/10046/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png",四川卫视3
 http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226252/index.m3u8
-#EXTINF:-1 group-title="港台新" tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/gt/fenghuangzixun.png",凤凰资讯台HD-1
-http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+#EXTINF:-1 group-title="港台新" tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/gt/fenghuangzixun.png",凤凰资讯台-清华
+http://tv.haue.edu.cn/hls/fhzw.m3u8
 #EXTINF:-1 group-title="港台新" tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/gt/fenghuangzixun.png",凤凰资讯台HD-3
 http://117.148.187.100/PLTV/88888888/224/3221226491/index.m3u8
 #EXTINF:-1 group-title="港台新" tvg-logo="https://cdn.jsdelivr.net/gh/supzhang/epg/tb1/gt/fenghuangzixun.png",凤凰资讯台HD-4
 http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1 group-title="港台新" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/pcc.png",凤凰中文台HD-3
-http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+#EXTINF:-1 group-title="港台新" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/pcc.png",凤凰中文台HD-清华
+http://tv.haue.edu.cn/hls/fhzw.m3u8
 #EXTINF:-1 ,巴中公共频道
 http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_247.m3u8
 #EXTINF:-1 ,巴中综合频道
@@ -21,64 +21,97 @@ http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.m3u8
 http://117.136.154.98/PLTV/88888888/224/3221225663/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1HD2
 http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227634/index.m3u8
+#EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1HD-清华
+http://tv.haue.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV2HD1
 http://223.110.245.142/ott.js.chinamobile.com/PLTV/3/224/3221227708/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV2HD2
 http://117.136.154.98/PLTV/88888888/224/3221225502/index.m3u8
+#EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV2HD-清华
+http://tv.haue.edu.cn/hls/cctv2hd.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3HD1
 http://223.110.241.137:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3HD2
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
+#EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3HD-清华
+http://tv.haue.edu.cn/hls/cctv3hd.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV4HD1
 http://117.136.154.86/PLTV/88888888/224/3221225501/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV4HD2
 http://223.110.241.137:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/.m3u8
+#EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV4HD-清华
+http://tv.haue.edu.cn/hls/cctv4hd.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5HD1
 http://223.110.241.137:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5HD2
 http://117.136.154.98/PLTV/88888888/224/3221225780/index.m3u8
+#EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5HD-清华
+http://tv.haue.edu.cn/hls/cctv5hd.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6HD1
 http://223.110.241.137:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6HD1
 http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227664/index.m3u8
+#EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6HD-清华
+http://tv.haue.edu.cn/hls/jlu_cctv6hd.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV-7HD1
 http://117.136.154.68/PLTV/88888888/224/3221225504/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV-7HD2
 http://223.110.241.137:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/.m3u8
+#EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV-7HD-清华
+http://tv.haue.edu.cn/hls/cctv7hd.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV-8HD1
 http://223.110.241.137:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV-8HD2
 http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
+#EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV-8HD-清华
+http://tv.haue.edu.cn/hls/cctv8hd.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV-9HD1
 http://117.136.154.98/PLTV/88888888/224/3221225507/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV-9HD2
 http://39.134.39.39/TVOD/88888888/224/3221226259/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV-9HD3
 http://223.110.243.160/ott.js.chinamobile.com/PLTV/3/224/3221227704/index.m3u8
+#EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV-9HD-清华
+http://tv.haue.edu.cn/hls/cctv9hd.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV-10HD1
 http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV-10HD1
 http://223.110.241.137:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV-10HD1
 http://117.136.154.98/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV-10HD-清华
+http://tv.haue.edu.cn/hls/cctv10hd.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",CCTV-11-HD1
 http://117.136.154.98/PLTV/88888888/224/3221225506/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",CCTV-11-HD2
 http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227524/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV-12-HD1
 http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV-12-HD-清华
+http://tv.haue.edu.cn/hls/cctv12hd.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13新闻1
 http://117.136.154.98/PLTV/88888888/224/3221225510/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13新闻2
 http://223.110.241.137:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/.m3u8
+#EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13新闻-清华
+http://tv.haue.edu.cn/hls/cctv13hd.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV-14 少儿HD
 http://39.134.39.39/PLTV/88888888/224/3221226166/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV-14 少儿HD
 http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227656/index.m3u8
+#EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV-14 少儿HD-清华
+http://tv.haue.edu.cn/hls/cctv14hd.m3u8
+#EXTINF:-1,CGTN纪录HD
+http://tv.haue.edu.cn/hls/cgtndochd.m3u8
+
+#EXTINF:-1,安徽卫视HD-清华
+http://tv.haue.edu.cn/hls/ahhd.m3u8
 #EXTINF:-1,安徽卫视HD
 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227653/index.m3u8
 #EXTINF:-1,安徽卫视HD
 http://117.136.154.98/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1,湖南卫视 HD-清华
+http://tv.haue.edu.cn/hls/hunanhd.m3u8
 #EXTINF:-1,湖南卫视 HD
 http://223.110.243.173/PLTV/3/224/3221227220/index.m3u8
 #EXTINF:-1,湖南卫视HD
@@ -139,9 +172,49 @@ http://223.110.241.137:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/1.m3u8
 http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227692/index.m3u8
 #EXTINF:-1,浙江卫视HD
 http://39.134.39.39/PLTV/88888888/224/3221226144/index.m3u8
-
-
-
-
-
-
+#EXTINF:-1,浙江卫视HD-清华
+http://tv.haue.edu.cn/hls/zjhd.m3u8
+#EXTINF:-1,北京卫视HD-清华
+http://tv.haue.edu.cn/hls/dfhd.m3u8
+#EXTINF:-1,天津卫视HD-清华
+http://tv.haue.edu.cn/hls/tjhd.m3u8
+#EXTINF:-1,重庆卫视HD-清华
+http://tv.haue.edu.cn/hls/cqhd.m3u8
+#EXTINF:-1,黑龙江卫视HD-清华
+http://tv.haue.edu.cn/hls/hljhd.m3u8
+#EXTINF:-1,吉林卫视HD-清华
+http://tv.haue.edu.cn/hls/jlhd.m3u8
+#EXTINF:-1,辽宁卫视HD-清华
+http://tv.haue.edu.cn/hls/lnhd.m3u8
+#EXTINF:-1,河北卫视HD-清华
+http://tv.haue.edu.cn/hls/hebhd.m3u8
+#EXTINF:-1,山东卫视HD-清华
+http://tv.haue.edu.cn/hls/sdhd.m3u8
+#EXTINF:-1,河南卫视HD-清华
+http://tv.haue.edu.cn/hls/hnhd.m3u8
+#EXTINF:-1,湖北卫视HD-清华
+http://tv.haue.edu.cn/hls/hbhd.m3u8
+#EXTINF:-1,江西卫视HD-清华
+http://tv.haue.edu.cn/hls/jxhd.m3u8
+#EXTINF:-1,东南卫视HD-清华
+http://tv.haue.edu.cn/hls/dnhd.m3u8
+#EXTINF:-1,广东卫视HD-清华
+http://tv.haue.edu.cn/hls/gdhd.m3u8
+#EXTINF:-1,深圳卫视HD-清华
+http://tv.haue.edu.cn/hls/szhd.m3u8
+#EXTINF:-1,广西卫视HD-清华
+http://tv.haue.edu.cn/hls/gxhd.m3u8
+#EXTINF:-1,贵州卫视HD-清华
+http://tv.haue.edu.cn/hls/gzhd.m3u8
+#EXTINF:-1,四川卫视HD-清华
+http://tv.haue.edu.cn/hls/schd.m3u8
+#EXTINF:-1,海南卫视HD-清华
+http://tv.haue.edu.cn/hls/lyhd.m3u8
+#EXTINF:-1,北京文艺HD-清华
+http://tv.haue.edu.cn/hls/btv2hd.m3u8
+#EXTINF:-1,北京科教HD-清华
+http://tv.haue.edu.cn/hls/btv3hd.m3u8
+#EXTINF:-1,北京影视HD-清华
+http://tv.haue.edu.cn/hls/btv4hd.m3u8
+#EXTINF:-1,北京青年HD-清华
+http://tv.haue.edu.cn/hls/btv8hd.m3u8

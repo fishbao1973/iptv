@@ -20,29 +20,37 @@ http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1HD1
 http://112.25.63.197:8080/gitv_live/G_CCTV-1-HQ/G_CCTV-1-HQ.m3u8?p=GITV&area=JS_CMCC_CP
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1HD2
-http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227634/index.m3u8
+http://39.134.39.5/TVOD/88888888/224/3221226247/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1HD3
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225674/index.m3u8
+#EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1HD4
+http://39.135.138.59:18890/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV2HD1
 http://112.25.63.197:8080/gitv_live/G_CCTV-2-CQ/G_CCTV-2-CQ.m3u8?p=GITV&area=JS_CMCC_CP
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV2HD2
 http://117.136.154.98/PLTV/88888888/224/3221225502/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV2HD3
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225676/index.m3u8
+#EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV2HD4
+http://39.135.138.59:18890/PLTV/88888910/224/3221225619/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3HD1
 http://112.25.63.197:8080/gitv_live/G_CCTV-3-CQ/G_CCTV-3-CQ.m3u8?p=GITV&area=JS_CMCC_CP
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3HD2
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
+#EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3HD3
+http://39.135.138.59:18890/PLTV/88888910/224/3221225634/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV4HD1
 http://117.136.154.86/PLTV/88888888/224/3221225501/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV4HD2
 http://112.25.63.197:8080/gitv_live/G_CCTV-4-CQ/G_CCTV-4-CQ.m3u8?p=GITV&area=JS_CMCC_CP
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV4HD3
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225753/index.m3u8
+#EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV4HD4
+http://39.134.116.30:8080/PLTV/88888910/224/3221225621/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5HD1
 http://112.25.63.197:8080/gitv_live/G_CCTV-5-MD/G_CCTV-5-MD.m3u8?p=GITV&area=JS_CMCC_CP
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5HD2
-http://117.136.154.98/PLTV/88888888/224/3221225780/index.m3u8
+http://39.134.39.5/TVOD/88888888/224/3221226146/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5HD3
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225801/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6HD1
@@ -51,6 +59,8 @@ http://112.25.63.197:8080/gitv_live/G_CCTV-6-MD/G_CCTV-6-MD.m3u8?p=GITV&area=JS_
 http://223.110.243.147/ott.js.chinamobile.com/PLTV/3/224/3221227664/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6HD3
 http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225683/index.m3u8
+#EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6HD4
+http://39.135.138.59:18890/PLTV/88888910/224/3221225632/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV-7HD1
 http://117.136.154.68/PLTV/88888888/224/3221225504/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV-7HD2
@@ -58,7 +68,9 @@ http://223.110.241.137:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV-8HD1
 http://112.25.63.197:8080/gitv_live/G_CCTV-8-MD/G_CCTV-8-MD.m3u8?p=GITV&area=JS_CMCC_CP
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV-8HD2
-http://39.134.39.39/PLTV/88888888/224/3221226257/index.m3u8
+http://39.134.39.5/TVOD/88888888/224/3221226150/index.m3u8
+#EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV-8HD3
+http://39.135.138.59:18890/PLTV/88888910/224/3221225635/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV-9HD1
 http://112.25.63.197:8080/gitv_live/G_CCTV-9-HD-265-8M/G_CCTV-9-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV-9HD2
@@ -66,11 +78,11 @@ http://39.134.39.39/TVOD/88888888/224/3221226259/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV-9HD3
 http://223.110.243.160/ott.js.chinamobile.com/PLTV/3/224/3221227704/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV-9HD4
-http://39.135.47.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225633/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV-10HD1
 http://112.25.63.197:8080/gitv_live/G_CCTV-10-HQ/G_CCTV-10-HQ.m3u8?p=GITV&area=JS_CMCC_CP
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV-10HD2
-http://223.110.241.137:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225636/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV-10HD3
 http://117.136.154.98/PLTV/88888888/224/3221225503/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV-10HD4
@@ -81,16 +93,22 @@ http://117.136.154.98/PLTV/88888888/224/3221225506/index.m3u8
 http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227524/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV-12-HD1
 http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV-12-HD2
+http://39.135.138.59:18890/PLTV/88888910/224/3221225629/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13新闻1
 http://117.136.154.98/PLTV/88888888/224/3221225510/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13新闻2
 http://112.25.63.197:8080/gitv_live/G_CCTV-13-CQ/G_CCTV-13-CQ.m3u8?p=GITV&area=JS_CMCC_CP
+#EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13新闻3
+http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV-14 少儿HD
 http://39.134.39.39/PLTV/88888888/224/3221226166/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV-14 少儿HD
 http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227656/index.m3u8
+#EXTINF:-1,东方卫视HD
+http://112.25.63.197:8080/gitv_live/G_DONGFANG-CQ/G_DONGFANG-CQ.m3u8?p=GITV&area=JS_CMCC_CP
 #EXTINF:-1,安徽卫视HD
-http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227653/index.m3u8
+http://112.25.63.197:8080/gitv_live/G_ANHUI-MD/G_ANHUI-MD.m3u8?p=GITV&area=JS_CMCC_CP
 #EXTINF:-1,安徽卫视HD
 http://117.136.154.98/PLTV/88888888/224/3221225676/index.m3u8
 #EXTINF:-1,湖南卫视 HD
@@ -153,8 +171,3 @@ http://223.110.241.137:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/1.m3u8
 http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227692/index.m3u8
 #EXTINF:-1,浙江卫视HD
 http://39.134.39.39/PLTV/88888888/224/3221226144/index.m3u8
-
-
-
-
-

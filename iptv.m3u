@@ -89,8 +89,10 @@ http://112.25.63.197:8080/gitv_live/G_CCTV-13-CQ/G_CCTV-13-CQ.m3u8?p=GITV&area=J
 http://39.134.39.39/PLTV/88888888/224/3221226166/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV-14 少儿HD
 http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227656/index.m3u8
+#EXTINF:-1,东方卫视HD
+http://112.25.63.197:8080/gitv_live/G_DONGFANG-CQ/G_DONGFANG-CQ.m3u8?p=GITV&area=JS_CMCC_CP
 #EXTINF:-1,安徽卫视HD
-http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227653/index.m3u8
+http://112.25.63.197:8080/gitv_live/G_ANHUI-MD/G_ANHUI-MD.m3u8?p=GITV&area=JS_CMCC_CP
 #EXTINF:-1,安徽卫视HD
 http://117.136.154.98/PLTV/88888888/224/3221225676/index.m3u8
 #EXTINF:-1,湖南卫视 HD

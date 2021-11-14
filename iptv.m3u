@@ -107,6 +107,8 @@ http://ott.js.chinamobile.com/PLTV/3/224/3221227387/index.m3u8
 http://39.134.39.39/PLTV/88888888/224/3221226166/index.m3u8
 #EXTINF:-1 group-title="央視" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV-14 少儿HD
 http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227656/index.m3u8
+#EXTINF:-1 ,河南民生
+https://tv.cry33.com/hn.php?id=mspd
 #EXTINF:-1 ,东方卫视HD
 http://112.25.63.197:8080/gitv_live/G_DONGFANG-CQ/G_DONGFANG-CQ.m3u8?p=GITV&area=JS_CMCC_CP
 #EXTINF:-1 ,安徽卫视HD
